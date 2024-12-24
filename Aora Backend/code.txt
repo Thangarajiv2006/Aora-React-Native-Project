@@ -1,0 +1,6 @@
+codes
+    300: Data base not connected
+    301: User Aldready Exist
+    100: Fill all Details
+
+    500: Files not upload
